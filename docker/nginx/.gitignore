@@ -1,0 +1,5 @@
+*.cer
+*.key
+*.pem
+/logs/*
+/nginx.conf
